@@ -1,3 +1,4 @@
+
 # Finance Platform
 
 A modern personal finance web app built with Next.js App Router. Track accounts and transactions, set budgets, process recurring transactions, and receive email notifications.
@@ -56,3 +57,4 @@ RESEND_API_KEY="re_xxx"
 ```bash
 npx prisma generate
 npx prisma migrate dev --name init
+
